@@ -1,5 +1,5 @@
 ### Hi there 👋
-![hero](Untitled design.gif)
+![hero](https://github.com/NoushadBug/NoushadBug/blob/master/Untitled%20design.gif)
 <!--
 **NoushadBug/NoushadBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
