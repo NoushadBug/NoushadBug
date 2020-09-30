@@ -1,5 +1,5 @@
-<p align="center">
-![hero](https://github.com/NoushadBug/NoushadBug/blob/master/hero.gif)</p>
+
+![hero](https://github.com/NoushadBug/NoushadBug/blob/master/hero.gif)
 ____
 <h3 align="center">🔌 let's connect 🔌 </h3>
 <br />
