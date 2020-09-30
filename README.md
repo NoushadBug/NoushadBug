@@ -1,7 +1,7 @@
 
 ![hero](https://github.com/NoushadBug/NoushadBug/blob/master/myHero.gif)
 ____
-<h3 align="center">🔌 let's connect 🔌 </h3>
+<h3 align="center">📫 Reach me 📫</h3>
 <br />
 <p align="center">
 <a href="https://www.facebook.com/nebulous.noushad"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
