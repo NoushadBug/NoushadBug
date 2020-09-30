@@ -1,5 +1,5 @@
 
-![hero](https://github.com/NoushadBug/NoushadBug/blob/master/hero.gif)
+![hero](https://github.com/NoushadBug/NoushadBug/blob/master/hero_updated.gif)
 ____
 <h3 align="center">🔌 let's connect 🔌 </h3>
 <br />
