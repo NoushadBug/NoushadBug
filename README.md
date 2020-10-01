@@ -43,6 +43,7 @@ ____
 <br />
 <br />
 <h3 align="center">💡 Problem Solving Profiles ✨</h3>
+
 | | |
 | :--: | :--: |
 | <p align="center">
