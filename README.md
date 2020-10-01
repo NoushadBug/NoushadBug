@@ -39,7 +39,7 @@ ____
 
 | | |
 | :--: | :--: |
-| [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBuglayout=compact" alt="shuvo18103107"/></a> |
+| [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&layout=compact&theme=algolia" alt="shuvo18103107"/></a> |
 
 ---
 
