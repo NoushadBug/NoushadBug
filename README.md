@@ -34,6 +34,9 @@ ____
 <br />
 <br />
 ---
+
 [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
+
 ![hero](https://github.com/NoushadBug/NoushadBug/blob/master/footer.png)
