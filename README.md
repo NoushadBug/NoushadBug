@@ -14,7 +14,7 @@
 ____
  <h3 align="center">:mortar_board: Graduating :mortar_board:</h3>
 <p align="center">
-Science and Technology interdisciplinary bachelor, in UFBA (Federal University of Bahia) with the intend to pursue a Computer Science degree after!</p><br>
+Studying in bachelor degree, in IUBAT (International University of Business Agriculture and Technology) with the intend to pursue a Computer Science degree after!</p><br>
 
 ____
 
