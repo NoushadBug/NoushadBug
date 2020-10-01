@@ -10,7 +10,7 @@
 - 📚 I’m currently learning about flutter and other android tech. 📚 <br>
 - 💪🏼 Future Goals: Learn more technologies. 💪🏼<br>
 - 🧠 Never stop creating new ideas. 🧠 <br>
-- ⚡ Fun fact: I love to research 🌱.<br></p>
+- ⚡ Fun fact: I love to research. 🌱<br></p>
 
 ____
  <h3 align="center">:mortar_board: Graduating :mortar_board:</h3>
