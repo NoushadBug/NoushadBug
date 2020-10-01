@@ -42,10 +42,11 @@ ____
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></p>
 <br />
 <br />
-<h3 align="center">💡 Problem Solving Record ✨</h3>
+<h3 align="center">💡 Problem Solving Profiles ✨</h3>
 <p align="center">
  
-<a href="https://www.hackerrank.com/Noushad_bhuiyan"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><a href="https://codeforces.com/profile/noushadbug"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/Noushad_bhuiyan"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/noushadbug"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 ---
 <h3 align="center">📊 Statistics 📊</h3>
