@@ -39,8 +39,8 @@ ____
 
 | | |
 | :--: | :--: |
-| [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&layout=compact" alt="NoushadBug"/></a> |
-<img height="300px" src="https://wakatime.com/share/@84e73e70-be27-4f2f-9fdc-55dbf6c699aa/0aa8aae8-79f1-483c-87b4-71a5d92e7509.png" /> | 
+| [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&hide_border=true" alt="NoushadBug"/></a> |
+<img src="https://wakatime.com/share/@84e73e70-be27-4f2f-9fdc-55dbf6c699aa/0aa8aae8-79f1-483c-87b4-71a5d92e7509.png" /> | 
 
 
 ---
