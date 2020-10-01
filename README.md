@@ -36,12 +36,12 @@ ____
 
 ---
 <h3 align="center">📊 Statistics 📊</h3>
-
-[![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+| | |
+| :--: | :--: |
+| [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) | 
 <a href="" align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&layout=compact&theme=tokyonight" alt="shuvo18103107"/>
-</a>
+</a> |
 
 ---
 
