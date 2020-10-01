@@ -44,10 +44,9 @@ ____
 <br />
 <h3 align="center">💡 Problem Solving Profiles ✨</h3>
 
-| :--: | :--: |
-| <p align="center">
+<p align="center">
 <a href="https://www.hackerrank.com/Noushad_bhuiyan"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
-<a href="https://codeforces.com/profile/noushadbug"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> | <h6 align="center"> Total Problems Solved: 200 </h6> |
+<a href="https://codeforces.com/profile/noushadbug"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h6 align="center"> Total Solved: 200 | Total Tried: 40 | Total Attempted: 156</h6>
 
 ---
 <h3 align="center">📊 Statistics 📊</h3>
