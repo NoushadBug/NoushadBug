@@ -8,7 +8,8 @@
 <p align="center">
 - 💻 I’m currently working on web development technologies like JavaScript, React etc.<br>
 - 📚 I’m currently learning about flutter and other android tech.<br>
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
+- 💪🏼 Future Goals: Learn more technologies<br>
+- 🧠 Never stop creating new ideas.<br>
 - ⚡ Fun fact: I love to research 🌱.</p><br>
 
 ____
