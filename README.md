@@ -36,7 +36,7 @@ ____
 
 ---
 
-[![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug)](https://github.com/anuraghazra/github-readme-stats)
+[![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
