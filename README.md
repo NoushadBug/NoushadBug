@@ -7,11 +7,17 @@
 
 <p align="center">
 - 💻 I’m currently working on web development technologies like JavaScript, React etc.<br>
-- 📚 I’m currently learning about flutter and other android tech<br>
+- 📚 I’m currently learning about flutter and other android tech.<br>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 - ⚡ Fun fact: I love to research 🌱.</p><br>
 
 ____
+ <h3 align="center">:mortar_board: Graduating :mortar_board:</h3>
+<p align="center">
+Science and Technology interdisciplinary bachelor, in UFBA (Federal University of Bahia) with the intend to pursue a Computer Science degree after!</p><br>
+
+____
+
 
  <h3 align="center">⚙️ Languages and Tools 🔨</h3>
  <p align="center">
