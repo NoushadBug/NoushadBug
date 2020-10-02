@@ -56,7 +56,7 @@ ____
 | | |
 | :--: | :--: |
 | [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&theme=Gradient&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&layout=compact" alt="NoushadBug"/></a> 
-| [![Noushad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NoushadBug)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://wakatime.com"><img src="https://wakatime.com/share/@NoushadBug/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
+| [![Noushad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NoushadBug)  | <a href="https://wakatime.com"><img height='200px'src="https://wakatime.com/share/@NoushadBug/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
 
 
 
