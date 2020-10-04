@@ -59,7 +59,8 @@ ____
 | <!--START_SECTION:waka--><!--END_SECTION:waka-->
  | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@NoushadBug/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
