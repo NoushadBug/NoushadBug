@@ -60,6 +60,15 @@ ____
 | <img height="200px" src="https://wakatime.com/share/@NoushadBug/31370f73-483b-4b40-95c5-8cbd04a45c7e.svg"/> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@NoushadBug/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
 
 <!--START_SECTION:waka-->
+```text
+Week: 27 September, 2020 - 04 October, 2020
+
+Other   28 hrs 18 mins  ████████████████████████░   96.42 % 
+HTML    30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Dart    26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+PHP     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+CSS     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+```
 <!--END_SECTION:waka-->
 
 ---
