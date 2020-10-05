@@ -59,6 +59,7 @@ ____
 | | | 
 | <img height="200px" src="https://wakatime.com/share/@NoushadBug/31370f73-483b-4b40-95c5-8cbd04a45c7e.svg"/> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@NoushadBug/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
 | | |
+<p align="center">
 <!--START_SECTION:waka-->
 ```text
 Week: 27 September, 2020 - 04 October, 2020
@@ -70,7 +71,7 @@ PHP     3 mins          ░░░░░░░░░░░░░░░░░░�
 CSS     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
-
+</p>
 ---
 
 <h3 align="center">📫 Reach me 📫</h3>
