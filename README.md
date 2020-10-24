@@ -62,12 +62,12 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2020 - 22 October, 2020
+Week: 16 October, 2020 - 23 October, 2020
 
-Other             32 hrs 38 mins  ████████████████████▓░░░░   82.15 % 
-HTML              5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-PHP               1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-JavaScript        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other             40 hrs 29 mins  █████████████████████░░░░   83.49 % 
+HTML              5 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+PHP               2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JavaScript        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
 
