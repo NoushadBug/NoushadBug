@@ -77,9 +77,9 @@ JavaScript   11 mins         ░░░░░░░░░░░░░░░░░
 <h3 align="center">📫 Reach me 📫</h3>
 <br />
 <p align="center">
-<a target="_blank" href="https://www.facebook.com/noushadbug"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a target="_blank" href="https://wa.me/+8801688898166"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/noushad-bhuiyan-677842157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="mailto:noushadbhuiyan7@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br /></p>
+<a href="https://www.facebook.com/noushadbug" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://wa.me/+8801688898166" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/noushad-bhuiyan-677842157/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:noushadbhuiyan7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br /></p>
 
 ![hero](https://github.com/NoushadBug/NoushadBug/blob/master/footer.png)
