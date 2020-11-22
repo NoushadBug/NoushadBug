@@ -62,13 +62,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2020 - 20 November, 2020
+Week: 14 November, 2020 - 21 November, 2020
 
-Other        63 hrs 45 mins  ██████████████████████▒░░   89.48 % 
-PHP          3 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-TypeScript   1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-HTML         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Dart         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Other        67 hrs 55 mins  ██████████████████████▒░░   89.12 % 
+PHP          3 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JavaScript   1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript   1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+HTML         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
