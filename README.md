@@ -62,12 +62,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
-CSS          2 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.35 % 
-PHP          2 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 % 
-HTML         2 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   31.08 % 
-JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+PHP              4 hrs 22 mins   ██████████▓░░░░░░░░░░░░░░   42.25 % 
+CSS              2 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.31 % 
+HTML             2 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Blade Template   1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+JavaScript       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
 
