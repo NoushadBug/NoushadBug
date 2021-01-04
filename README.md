@@ -62,12 +62,12 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
+Week: 27 December, 2020 - 03 January, 2021
 
-Other        69 hrs 19 mins  █████████████████████▓░░░   86.16 % 
-JavaScript   6 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-HTML         3 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-CSS          1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other        69 hrs 11 mins  ██████████████████████▒░░   89.05 % 
+JavaScript   4 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+HTML         3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+CSS          1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 <!--END_SECTION:waka-->
 
