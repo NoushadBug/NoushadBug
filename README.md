@@ -62,13 +62,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
-Other        60 hrs 4 mins   █████████████████████░░░░   84.47 % 
-JavaScript   10 hrs 13 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-HTML         26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-CSS          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-TypeScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other        57 hrs 29 mins  █████████████████████▒░░░   85.45 % 
+JavaScript   9 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+HTML         25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+CSS          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
 
