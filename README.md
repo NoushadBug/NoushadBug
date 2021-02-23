@@ -62,9 +62,9 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2021 - 21 February, 2021
+Week: 15 February, 2021 - 22 February, 2021
 
-Other   17 hrs          █████████████████████████   100.00 % 
+Other   10 hrs 56 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
