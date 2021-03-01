@@ -62,7 +62,10 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 February, 2021 - 28 February, 2021
+
+HTML         11 mins         ███████████████████▒░░░░░   77.38 % 
+JavaScript   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.39 % 
 ```
 <!--END_SECTION:waka-->
 
