@@ -62,9 +62,9 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
-Other   52 hrs 26 mins  █████████████████████████   100.00 % 
+Other   51 hrs 15 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
