@@ -62,7 +62,7 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
 HTML         2 hrs 56 mins   ████████████████████▓░░░░   82.16 % 
 XML          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
