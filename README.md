@@ -62,12 +62,7 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 May, 2021 - 12 May, 2021
-
-HTML         2 hrs 46 mins   ██████████████████████▓░░   90.56 % 
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-XML          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
