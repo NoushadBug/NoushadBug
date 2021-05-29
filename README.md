@@ -2,6 +2,7 @@
 <h3><img align="center" src="https://github.com/NoushadBug/NoushadBug/blob/master/heroFinal.png" alt="NoushadBug"/>
 </h3>
 <h3 align="center">📝 Who am I? 📝</h3>
+<h3  align="center"><img align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&config.timezone=Asia%2FDhaka" alt="NoushadBug"/>
 
 <h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Noushad%20Bhuiyan_Resume_UPDATED.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="NoushadBug"/></a><a href="https://noushadbug.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=black" alt="NoushadBug"/></a></h3>
 <br>
