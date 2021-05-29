@@ -58,7 +58,7 @@ ____
 | :--: | :--: |
 | [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icon=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug" alt="NoushadBug"/></a>
 | | | 
-| <img height="200px" src="https://wakatime.com/share/@NoushadBug/69c1d846-e657-4530-b93f-7c01c2476a4a.png"/> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@NoushadBug/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
+| <img height="200px" src="https://wakatime.com/share/@NoushadBug/d45f6648-d4d8-429d-a0c3-2c8789f95e81.svg"/> | <a href="https://wakatime.com/share/@NoushadBug/7446b87f-0bb1-4a7a-8732-4fc0aaa03068.svg"><img height="200px" src="https://wakatime.com/share/@NoushadBug/7446b87f-0bb1-4a7a-8732-4fc0aaa03068.svg" /></a> |
 | | |
 
 
