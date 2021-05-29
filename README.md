@@ -56,12 +56,12 @@ ____
  
 | | | 
 | :--: | :--: |
-| [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&card_width=400&bg_color=60,bdc3c7,2c3e50&title_color=fff&text_color=fff&show_icons=true" alt="NoushadBug"/></a>
+| [![Noushad's github stats](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icon=true&layout=compact&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF)](https://github-readme-stats.vercel.app/api?username=NoushadBug&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoushadBug&card_width=400&bg_color=60,bdc3c7,2c3e50&title_color=fff&text_color=fff&show_icons=true" alt="NoushadBug"/></a>
 | | | 
 | <img  src="https://wakatime.com/share/@NoushadBug/d45f6648-d4d8-429d-a0c3-2c8789f95e81.svg"/> | <a href="https://wakatime.com/share/@NoushadBug/7446b87f-0bb1-4a7a-8732-4fc0aaa03068.svg"><img  src="https://wakatime.com/share/@NoushadBug/7446b87f-0bb1-4a7a-8732-4fc0aaa03068.svg" /></a> |
 | | |
 
-
+<h3 align="center">
 
 <!--START_SECTION:waka-->
 ```text
@@ -74,6 +74,9 @@ CSS          1 hr 12 mins    ▓░░░░░░░░░░░░░░░░
 JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
+
+</h3>
+
 
 ---
 
