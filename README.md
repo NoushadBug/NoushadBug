@@ -80,7 +80,7 @@ JSON         23 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </h3>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=noushadBug&bg_color=00000&hide_border=true" width="100%"/>
 
 ---
 
