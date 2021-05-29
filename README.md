@@ -85,4 +85,4 @@ JSON         23 mins         ▒░░░░░░░░░░░░░░░░
 <a href="https://www.linkedin.com/in/noushad-bhuiyan-677842157/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:noushadbhuiyan7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br /></p>
 
-![hero](https://github.com/NoushadBug/NoushadBug/blob/master/footerPng.png)
+<img align="center" src="https://github.com/NoushadBug/NoushadBug/blob/master/footerPng.png" alt="NoushadBug"/>
