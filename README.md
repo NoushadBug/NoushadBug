@@ -3,13 +3,14 @@
 </h3>
 <h3 align="center">📝 Who am I? 📝</h3>
 
-<table>
+<table >
   <tr>
-    <td valign="top"><h3  align="center"><img align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&config.timezone=Asia%2FDhaka" alt="NoushadBug"/></h3></td>
-    <td><p>💻 Currently working on web development technologies like JavaScript, React etc. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>🧠 Never stopped creating new ideas.<br>⚡ Fun fact: I love to research.<br></p></td>
+    <td><h3  align="center"><img style="width:290px;" align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&config.timezone=Asia%2FDhaka" alt="NoushadBug"/></h3></td>
+    <td><p width="10px"><br>💻 Currently working on web development technologies like JavaScript, React etc. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>⚡ Fun fact: I love to research.<br><br>
+     <img align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=5&config.timezone=Asia%2FDhaka" alt="NoushadBug"/> 
+      </p></td>
   </tr>
 </table>
-
 
 <h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Noushad%20Bhuiyan_Resume_UPDATED.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="NoushadBug"/></a><a href="https://noushadbug.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=black" alt="NoushadBug"/></a></h3>
 <br>
