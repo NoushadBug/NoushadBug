@@ -6,12 +6,7 @@
 <table>
   <tr>
     <td valign="top"><h3  align="center"><img align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&config.timezone=Asia%2FDhaka" alt="NoushadBug"/></h3></td>
-    <td><p>
-- 💻 I’m currently working on web development technologies like JavaScript, React etc. 💻 <br>
-- 📚 I’m currently learning about flutter and other android tech. 📚 <br>
-- 💪🏼 Future Goals: Learn more technologies. 💪🏼<br>
-- 🧠 Never stop creating new ideas. 🧠 <br>
-- ⚡ Fun fact: I love to research. 🌱<br></p></td>
+    <td><p>💻 Currently working on web development technologies like JavaScript, React etc. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>🧠 Never stopped creating new ideas.<br>⚡ Fun fact: I love to research.<br></p></td>
   </tr>
 </table>
 
