@@ -2,17 +2,24 @@
 <h3><img align="center" src="https://github.com/NoushadBug/NoushadBug/blob/master/heroFinal.png" alt="NoushadBug"/>
 </h3>
 <h3 align="center">📝 Who am I? 📝</h3>
-<h3  align="center"><img align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&config.timezone=Asia%2FDhaka" alt="NoushadBug"/>
 
-<h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Noushad%20Bhuiyan_Resume_UPDATED.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="NoushadBug"/></a><a href="https://noushadbug.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=black" alt="NoushadBug"/></a></h3>
-<br>
-
-<p align="center">
+<table>
+  <tr>
+    <td valign="top"><h3  align="center"><img align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&config.timezone=Asia%2FDhaka" alt="NoushadBug"/></h3></td>
+    <td><p>
 - 💻 I’m currently working on web development technologies like JavaScript, React etc. 💻 <br>
 - 📚 I’m currently learning about flutter and other android tech. 📚 <br>
 - 💪🏼 Future Goals: Learn more technologies. 💪🏼<br>
 - 🧠 Never stop creating new ideas. 🧠 <br>
-- ⚡ Fun fact: I love to research. 🌱<br></p>
+- ⚡ Fun fact: I love to research. 🌱<br></p></td>
+  </tr>
+</table>
+
+
+<h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Noushad%20Bhuiyan_Resume_UPDATED.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="NoushadBug"/></a><a href="https://noushadbug.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=black" alt="NoushadBug"/></a></h3>
+<br>
+
+
 
 ____
  <h3 align="center">:mortar_board: Graduating :mortar_board:</h3>
