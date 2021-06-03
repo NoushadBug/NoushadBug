@@ -8,7 +8,7 @@
     <td><h3  align="center"><img style="width:290px;" align="center" src="https://github.com/noushadBug/noushadBug/blob/master/github-metrics.svg" alt="NoushadBug"/></h3></td>
     <td><p width="10px"><br><br>💻 Currently working on web development technologies like JavaScript, React etc. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>⚡ Fun fact: I love to research.<br><br>
       </p>
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=noushadBug&row=1&no-frame=true&theme=onedark&no-bg=true&row=2&column=4" alt="NoushadBug"/> 
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=noushadBug&row=1&no-frame=true&theme=onedark&no-bg=true&column=5" alt="NoushadBug"/> 
     </td>
   </tr>
 </table>
