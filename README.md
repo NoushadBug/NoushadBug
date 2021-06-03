@@ -7,7 +7,7 @@
   <tr>
     <td><h3  align="center"><img style="width:290px;" align="center" src="https://metrics.lecoq.io/noushadBug?base.metadata=0&config.timezone=Asia%2FDhaka" alt="NoushadBug"/></h3></td>
     <td><p width="10px"><br><br>💻 Currently working on web development technologies like JavaScript, React etc. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>⚡ Fun fact: I love to research.<br><br>
-     <img align="center" src="https://metrics.lecoq.io/noushadBug?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=5&config.timezone=Asia%2FDhaka" alt="NoushadBug"/> 
+     <img align="center" src="https://github-profile-trophy.vercel.app/?username=noushadBug&row=1&no-frame=true&theme=radical&no-bg=true" alt="NoushadBug"/> 
       </p></td>
   </tr>
 </table>
