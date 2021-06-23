@@ -73,13 +73,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 June, 2021 - 21 June, 2021
+Week: 15 June, 2021 - 22 June, 2021
 
-Other        42 hrs 17 mins  ██████████████▓░░░░░░░░░░   59.26 % 
-C#           15 hrs 27 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.66 % 
-JavaScript   7 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-TypeScript   3 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-HTML         1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Other        47 hrs 8 mins   ███████████████▒░░░░░░░░░   61.25 % 
+C#           10 hrs 58 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+JavaScript   8 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+HTML         4 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TypeScript   3 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 <!--END_SECTION:waka-->
 
