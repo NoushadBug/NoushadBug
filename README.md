@@ -73,13 +73,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
+Week: 08 July, 2021 - 14 July, 2021
 
-Other            59 hrs 28 mins  ███████████████████▓░░░░░   78.41 % 
-CSHTML           5 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-CSS              3 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-JavaScript       2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Blade Template   2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other            59 hrs 24 mins  ████████████████████▓░░░░   82.20 % 
+CSS              3 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+CSHTML           2 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Blade Template   2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JavaScript       1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
 
