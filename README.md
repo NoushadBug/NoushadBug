@@ -73,13 +73,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
-Other        56 hrs 44 mins  ███████████████████▒░░░░░   77.41 % 
-JavaScript   7 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-CSS          2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-HTML         2 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Git Config   1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Other        54 hrs 43 mins  ███████████████████▓░░░░░   78.23 % 
+JavaScript   7 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+HTML         2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+CSS          1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Git Config   1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 
