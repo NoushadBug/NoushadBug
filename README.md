@@ -73,12 +73,12 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2021 - 01 September, 2021
+Week: 27 August, 2021 - 02 September, 2021
 
-Other        32 hrs 29 mins  ████████████████░░░░░░░░░   63.95 % 
-C#           8 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-JavaScript   6 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-CSHTML       4 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Other        24 hrs 27 mins  ████████████▒░░░░░░░░░░░░   49.81 % 
+C#           9 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.35 % 
+CSHTML       8 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 % 
+JavaScript   7 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 ```
 <!--END_SECTION:waka-->
 
