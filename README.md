@@ -73,13 +73,12 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2021 - 29 September, 2021
+Week: 24 September, 2021 - 30 September, 2021
 
-C#           36 hrs 10 mins  █████████████████▒░░░░░░░   69.79 % 
-JavaScript   10 hrs 21 mins  █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Other        3 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-CSHTML       1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C#           36 hrs 45 mins  ██████████████████░░░░░░░   72.48 % 
+JavaScript   8 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Other        3 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+CSHTML       1 hr 57 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
 
