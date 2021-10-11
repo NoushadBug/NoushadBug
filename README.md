@@ -73,13 +73,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
-JavaScript   10 hrs 32 mins  ████████▓░░░░░░░░░░░░░░░░   34.09 % 
-C#           9 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░   32.07 % 
-HTML         4 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-CSHTML       4 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Other        1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript   10 hrs 26 mins  ████████▓░░░░░░░░░░░░░░░░   34.68 % 
+C#           9 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   32.95 % 
+CSHTML       4 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+HTML         3 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Other        1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 <!--END_SECTION:waka-->
 
