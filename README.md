@@ -73,10 +73,12 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2021 - 29 November, 2021
+Week: 24 November, 2021 - 30 November, 2021
 
-JavaScript   18 mins         ████████████████▒░░░░░░░░   65.68 % 
-HTML         9 mins          ████████▒░░░░░░░░░░░░░░░░   33.84 % 
+JavaScript   40 mins         ████████████░░░░░░░░░░░░░   47.55 % 
+C#           33 mins         █████████▓░░░░░░░░░░░░░░░   39.10 % 
+HTML         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 <!--END_SECTION:waka-->
 
