@@ -73,11 +73,9 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2021 - 06 December, 2021
+Week: 01 December, 2021 - 07 December, 2021
 
-Other        1 hr 47 mins    ████████████████▓░░░░░░░░   66.04 % 
-C#           33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-JavaScript   21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Other        1 hr 45 mins    █████████████████████████   99.84 % 
 ```
 <!--END_SECTION:waka-->
 
