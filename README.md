@@ -73,13 +73,13 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2021 - 16 December, 2021
+Week: 11 December, 2021 - 17 December, 2021
 
-C#           18 hrs 51 mins  ███████████░░░░░░░░░░░░░░   44.03 % 
-JavaScript   12 hrs          ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-CSHTML       7 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Dart         2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Other        2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JavaScript   11 hrs 41 mins  █████████▒░░░░░░░░░░░░░░░   36.71 % 
+C#           10 hrs 47 mins  ████████▒░░░░░░░░░░░░░░░░   33.87 % 
+CSHTML       5 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Dart         2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Other        1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 <!--END_SECTION:waka-->
 
