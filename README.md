@@ -73,7 +73,7 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 HTML         28 hrs 40 mins  █████████████▓░░░░░░░░░░░   54.65 % 
 JavaScript   21 hrs 37 mins  ██████████▒░░░░░░░░░░░░░░   41.21 % 
