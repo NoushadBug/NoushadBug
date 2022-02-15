@@ -73,11 +73,11 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
-HTML         41 mins         ███████████░░░░░░░░░░░░░░   44.63 % 
-JavaScript   32 mins         ████████▓░░░░░░░░░░░░░░░░   34.83 % 
-Python       19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+HTML         26 mins         █████████▒░░░░░░░░░░░░░░░   37.00 % 
+JavaScript   26 mins         █████████░░░░░░░░░░░░░░░░   36.59 % 
+Python       19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.41 % 
 ```
 <!--END_SECTION:waka-->
 
