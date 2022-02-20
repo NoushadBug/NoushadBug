@@ -73,9 +73,7 @@ ____
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 22 hrs 2 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 Vue.js       19 hrs 43 mins  ██████████████████████▒░░   89.12 % 
 Bash         1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
