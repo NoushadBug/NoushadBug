@@ -72,15 +72,13 @@ ____
 <h3 align="center">
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-Vue.js   18 hrs 30 mins  ███████████░░░░░░░░░░░░░░   43.83 % 
-Other    17 hrs 1 min    ██████████░░░░░░░░░░░░░░░   40.32 % 
-PHP      2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-SCSS     1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JSON     52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Other        27 hrs 55 mins  ███████████████░░░░░░░░░░   60.31 %
 ```
+
 <!--END_SECTION:waka-->
 
 </h3>
