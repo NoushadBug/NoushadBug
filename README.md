@@ -74,12 +74,11 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 July 2022 - To: 12 July 2022
+From: 06 July 2022 - To: 13 July 2022
 
-PHP          2 hrs 23 mins   ██████████████████████░░░   87.90 %
-HTML         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+PHP          12 mins         █████████████▒░░░░░░░░░░░   53.89 %
+HTML         10 mins         ███████████▒░░░░░░░░░░░░░   45.87 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
