@@ -74,11 +74,7 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 07 September 2022
-
-PHP    3 hrs 45 mins   ██████████████████████▒░░   89.35 %
-HTML   26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
