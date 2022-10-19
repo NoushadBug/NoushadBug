@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Noushad_Bhuiyan_resume.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="NoushadBug"/></a><a href="https://noushadbug.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=brown" target="_blank" alt="NoushadBug"/></a></h3>
+<h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Kamrul-Hasan-Bhuiyan_CV.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="NoushadBug"/></a><a href="https://noushadbug.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=brown" target="_blank" alt="NoushadBug"/></a></h3>
 <br>
 
 
