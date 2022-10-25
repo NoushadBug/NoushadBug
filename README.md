@@ -74,10 +74,7 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
-
-Bash    15 mins         ████████████████████████▓   99.17 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
