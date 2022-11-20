@@ -74,7 +74,11 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 November 2022 - To: 19 November 2022
+
+Blade Template   20 mins         ████████████▒░░░░░░░░░░░░   48.72 %
+Vue.js           17 mins         ██████████▓░░░░░░░░░░░░░░   42.64 %
+HTML             3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:waka-->
