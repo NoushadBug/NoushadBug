@@ -74,14 +74,14 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-Vue.js           7 hrs 56 mins   █████████████▒░░░░░░░░░░░   53.30 %
-Blade Template   4 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.53 %
-JSON             54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-PHP              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-JavaScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-HTML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+PHP              6 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   36.29 %
+Vue.js           5 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+Blade Template   4 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+JavaScript       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+SCSS             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
