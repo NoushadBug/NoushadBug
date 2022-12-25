@@ -74,10 +74,7 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 December 2022
-
-CSHTML   22 mins         ████████████████░░░░░░░░░   64.28 %
-Other    12 mins         █████████░░░░░░░░░░░░░░░░   35.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
