@@ -74,11 +74,11 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 24 December 2022 - To: 31 December 2022
 
-JavaScript   3 hrs 57 mins   ████████████████████▓░░░░   82.18 %
-HTML         50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript   4 hrs 14 mins   ████████████████████▓░░░░   83.16 %
+HTML         50 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
