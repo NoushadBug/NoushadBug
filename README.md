@@ -74,12 +74,11 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2023 - To: 21 March 2023
+From: 15 March 2023 - To: 22 March 2023
 
-PHP          21 hrs 42 mins  ██████████████████████░░░   88.10 %
-TypeScript   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-JavaScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+PHP          18 hrs 54 mins  ██████████████████████░░░   88.34 %
+TypeScript   1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
