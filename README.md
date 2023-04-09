@@ -74,11 +74,10 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2023 - To: 07 April 2023
+From: 01 April 2023 - To: 08 April 2023
 
-PHP          19 mins         ███████▓░░░░░░░░░░░░░░░░░   30.71 %
-HTML         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
-Other        8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+HTML         14 mins         ████████▒░░░░░░░░░░░░░░░░   33.10 %
+Other        8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
 ```
 
 <!--END_SECTION:waka-->
