@@ -74,7 +74,7 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
 JavaScript   7 mins          █████████████████████▓░░░   86.94 %
 HTML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
