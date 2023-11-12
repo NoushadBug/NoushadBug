@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Kamrul-Hasan-Bhuiyan_CV.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="NoushadBug"/></a><a href=" https://www.fiverr.com/web_coder_nsd" target="_blank" ><img align="center" src="https://img.shields.io/badge/Hire%20me%20on%20Fiverr-5B249A?&style=for-the-badge&color=00B31E" target="_blank" alt="NoushadBug"/></a></h3>
+<h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Kamrul-Hasan-Bhuiyan_CV.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="NoushadBug"/></a><a href=" https://www.fiverr.com/web_coder_nsd" target="_blank" alt="NoushadBug"><img align="center" src="https://img.shields.io/badge/Hire%20me%20on%20Fiverr-5B249A?&style=for-the-badge&color=00B31E"/></a></h3>
 <br>
 
 
